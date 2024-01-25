@@ -25,18 +25,11 @@
   <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
   <br>
   <br>
-  ![angular-hacks version]()
-  [![Love Angular badge]()](https://www.github.com/angular/angular)
-
 </p>
 
 <p align="center">
-  <a href="https://circleci.com/gh/angular/workflows/angular/tree/main">
-    <img src="https://img.shields.io/badge/version-v1.0.0-green.svg" alt="Version Badge" />
-  </a>
-  <a href="https://www.npmjs.com/@angular/core">
-    <img src="https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love" alt="Love Angular Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/version-v1.0.0-green.svg" alt="Version Badge" />
+  <img src="https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love" alt="Love Angular Badge" />
 </p>
 
 
