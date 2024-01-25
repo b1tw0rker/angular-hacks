@@ -1,7 +1,5 @@
 # README
 
-![angular-hacks version](https://img.shields.io/badge/version-v1.0.0-green.svg)
-[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 
 
 <h1 align="center">Angular Hacks</h1>
@@ -25,6 +23,9 @@
   <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
   <br>
   <br>
+  ![angular-hacks version](https://img.shields.io/badge/version-v1.0.0-green.svg)
+  [![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
+
 </p>
 
 
