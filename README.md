@@ -4,7 +4,7 @@
 [![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 
 
-<h1 align="center">Angular - The modern web developer's platform</h1>
+<h1 align="center">Angular Hacks</h1>
 
 <p align="center">
   <img src="https://github.com/b1tw0rker/angular/tree/main/aio/src/assets/images/logos/angular/angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://angular.dev/"><strong>angular.dev</strong></a>
+  <a href="https://www.angular-hacks.de/"><strong>www.angular-hacks.de</strong></a>
   <br>
 </p>
 
@@ -23,8 +23,6 @@
   <a href="CONTRIBUTING.md">Contributing Guidelines</a>
   ·
   <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
-  ·
-  <a href="https://blog.angular.io/">Blog</a>
   <br>
   <br>
 </p>
