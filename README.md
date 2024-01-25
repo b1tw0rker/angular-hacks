@@ -22,14 +22,6 @@
 </p>
 
 <p align="center">
-  <a href="CONTRIBUTING.md">Contributing Guidelines</a>
-  ·
-  <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
-  <br>
-  <br>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/version-v1.0.0-green.svg" alt="Version Badge" />
   <img src="https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love" alt="Love Angular Badge" />
 </p>
