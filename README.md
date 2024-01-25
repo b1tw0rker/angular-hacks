@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.0-green.svg" alt="Version Badge" />
+  <img src="https://img.shields.io/badge/version-v1.0.1-green.svg" alt="Version Badge" />
   <img src="https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love" alt="Love Angular Badge" />
 </p>
 
