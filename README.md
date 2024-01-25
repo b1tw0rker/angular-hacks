@@ -58,6 +58,5 @@ Wenn Du Fragen oder Anregungen hast, zöger bitte nicht, ein Issue zu erstellen 
 
 Ich hoffe, dass Du dieses Repository nützlich findest und freue mich auf kreative und innovative Beiträge!
 
-Herzlichst Nick.
-
 ---
+Nick
