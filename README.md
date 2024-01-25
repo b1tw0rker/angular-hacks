@@ -9,8 +9,10 @@
 <p align="center">
   <img src="angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <em>Angular is a development platform for building mobile and desktop web applications
-    <br> using TypeScript/JavaScript and other languages.</em>
+  <em>
+    Angular ist eine Entwicklungsplattform für die Erstellung von mobilen und Desktop-Webanwendungen
+    <br>
+   mit TypeScript/JavaScript und anderen Sprachen.</em>
   <br>
 </p>
 
