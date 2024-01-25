@@ -1,6 +1,6 @@
 # README
 
-## Willkommen in unserem Repository!
+## Moin!
 
 Dieses Repository enthält verschiedene Code-Beispiele, Bibliotheken, Tools und Dokumentationen, die für eine Vielzahl von Anwendungsfällen nützlich sein können.
 
