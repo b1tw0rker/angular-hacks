@@ -41,7 +41,7 @@ Sämtliche Inhalte in diesem Repository stehen unter der MIT-Lizenz . Dies bedeu
 - **Freiheit zur Modifikation:** Du hast die Freiheit, die Inhalte zu ändern und anzupassen, sodass sie deinen Bedürfnissen entsprechen.
 - **Freiheit zur Weiterverbreitung:** Du darfst die Inhalte weiterverbreiten, inklusive modifizierter Versionen, entweder gegen Gebühr oder kostenlos.
 
-##### Bitte beachten:
+#### Bitte beachten:
 
 - Die Software wird "wie sie ist" bereitgestellt, ohne jegliche Garantien oder Gewährleistungen. Das bedeutet, dass wir keine Verantwortung für Schäden oder Probleme übernehmen, die durch die Verwendung der Inhalte entstehen könnten.
 - Obwohl es nicht erforderlich ist, würden wir es sehr schätzen, wenn Du uns als Urheber der ursprünglichen Inhalte anerkennen würdest, wenn Du unsere Arbeit nutzt oder darauf aufbaust.
