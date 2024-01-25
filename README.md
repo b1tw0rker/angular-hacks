@@ -7,7 +7,7 @@
 <h1 align="center">Angular Hacks</h1>
 
 <p align="center">
-  <img src="https://github.com/b1tw0rker/angular/tree/main/aio/src/assets/images/logos/angular/angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <em>Angular is a development platform for building mobile and desktop web applications
     <br> using TypeScript/JavaScript and other languages.</em>
