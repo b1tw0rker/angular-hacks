@@ -1,0 +1,5 @@
+<div [ngSwitch]="accessLevel">
+   <admin-dashboard *ngSwitchCase="admin"/>
+   <moderator-dashboard *ngSwitchCase="moderator"/>
+   <user-dashboard *ngSwitchDefault/>
+</div>    

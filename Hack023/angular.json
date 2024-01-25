@@ -1,0 +1,15 @@
+{
+   ...
+   "assets": [
+    "src/favicon.ico",
+    "src/assets",
+    { "glob": "**/*", "input": "src/assets/lib/font-awesome/webfonts", "output": "/webfonts/" }
+  ],
+  ...
+        "styles": [
+          "src/assets/lib/font-awesome/css/all.min.css",
+          "src/styles.css"
+        ],
+  ...
+}
+    

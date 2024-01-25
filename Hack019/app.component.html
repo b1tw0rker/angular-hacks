@@ -1,0 +1,4 @@
+<h1>{{ 'WELCOME' | translate }}</h1>
+<p>{{ 'LANGUAGE' | translate }}: <strong>{{ getCurrentLang() }}</strong></p>
+<button (click)="switchLanguage('en')">English</button>
+<button (click)="switchLanguage('de')">Deutsch</button>

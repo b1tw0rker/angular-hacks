@@ -1,0 +1,1 @@
+doubleCount.set(3);

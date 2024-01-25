@@ -1,0 +1,5 @@
+@switch (accessLevel) {
+   @case ('admin') { <admin-dashboard/> }
+   @case ('moderator') { <moderator-dashboard/> }
+   @default { <user-dashboard/> }
+}    

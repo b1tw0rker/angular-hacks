@@ -1,0 +1,6 @@
+<div *ngIf="loggedIn; else anonymousUser">
+  Der Benutzer ist eingeloggt
+</div>
+<ng-template #anonymousUser>
+  Der Benutzer ist Nicht eingeloggt
+</ng-template>
