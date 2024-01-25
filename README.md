@@ -33,7 +33,7 @@ Dieses Repository enthält sämtliche Code-Beispiele und Listings aus dem Buch: 
 
 ### Lizenzierung
 
-Ich freue mich über das rege Interesse an diesem Repository. Sämtliche Inhalte in diesem Repository stehen unter der MIT-Lizenz . Dies bedeutet, dass du weitgehende Freiheiten hast, die hier veröffentlichten Inhalte zu nutzen, zu modifizieren und weiterzuverteilen.
+Sämtliche Inhalte in diesem Repository stehen unter der MIT-Lizenz . Dies bedeutet, dass du weitgehende Freiheiten hast, die hier veröffentlichten Inhalte zu nutzen, zu modifizieren und weiterzuverteilen.
 
 #### Was die MIT-Lizenz bedeutet:
 
