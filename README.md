@@ -5,7 +5,7 @@
 
 ## Moin!
 
-Dieses Repository enthält verschiedene Code-Beispiele, Bibliotheken, Tools und Dokumentationen, die für eine Vielzahl von Anwendungsfällen nützlich sein können.
+Dieses Repository enthält sämtliche Code-Beispiele und Listings aus dem Buch: Angular Hacks - https://www.angular-hacks.de
 
 ### Lizenzierung
 
