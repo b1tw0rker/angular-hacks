@@ -4,7 +4,7 @@
 [![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 -->
 
-<h1 align="center">Angular Hacks</h1>
+<h1 align="center">Angular Hacks - Das Buch</h1>
 
 <p align="center">
   <img src="angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
