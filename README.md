@@ -1,5 +1,7 @@
 # README
 
+![angular-hacks version](https://img.shields.io/badge/version-v1.0.0-green.svg)
+
 ## Moin!
 
 Dieses Repository enthält verschiedene Code-Beispiele, Bibliotheken, Tools und Dokumentationen, die für eine Vielzahl von Anwendungsfällen nützlich sein können.
